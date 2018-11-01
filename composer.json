@@ -5,7 +5,7 @@
     "keywords": ["admitad", "api"],
     "license": "MIT",
     "autoload": {       
-        "psr-4": { "Admitad\\Api\\": "src/" }
+        "psr-4": { "Admitad\\Api\\": "src/Admitad/Api/" }
     },
     "require": {
         "php": ">=5.3.0",
